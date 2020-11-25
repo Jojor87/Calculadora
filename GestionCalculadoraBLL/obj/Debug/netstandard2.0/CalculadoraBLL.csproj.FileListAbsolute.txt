@@ -1,0 +1,12 @@
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\bin\Debug\netstandard2.0\CalculadoraBLL.deps.json
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\bin\Debug\netstandard2.0\CalculadoraBLL.dll
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\bin\Debug\netstandard2.0\CalculadoraBLL.pdb
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\bin\Debug\netstandard2.0\CalculadoraDAL.dll
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\bin\Debug\netstandard2.0\CalculadoraDAL.pdb
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.csprojAssemblyReference.cache
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.AssemblyInfoInputs.cache
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.AssemblyInfo.cs
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.csproj.CoreCompileInputs.cache
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.csproj.CopyComplete
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.dll
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.pdb

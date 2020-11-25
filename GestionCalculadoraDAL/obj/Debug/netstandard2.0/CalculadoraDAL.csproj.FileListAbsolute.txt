@@ -1,0 +1,8 @@
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraDAL\bin\Debug\netstandard2.0\CalculadoraDAL.deps.json
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraDAL\bin\Debug\netstandard2.0\CalculadoraDAL.dll
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraDAL\bin\Debug\netstandard2.0\CalculadoraDAL.pdb
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraDAL\obj\Debug\netstandard2.0\CalculadoraDAL.AssemblyInfoInputs.cache
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraDAL\obj\Debug\netstandard2.0\CalculadoraDAL.AssemblyInfo.cs
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraDAL\obj\Debug\netstandard2.0\CalculadoraDAL.csproj.CoreCompileInputs.cache
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraDAL\obj\Debug\netstandard2.0\CalculadoraDAL.dll
+C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraDAL\obj\Debug\netstandard2.0\CalculadoraDAL.pdb
