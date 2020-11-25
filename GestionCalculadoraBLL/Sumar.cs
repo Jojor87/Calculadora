@@ -1,10 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using UtilidadesCalculadora;
 
 namespace CalculadoraBLL
 {
-    class Sumar
+    public class Sumar
     {
+        // constructor() {}
+        public Sumar()
+        {
+        }
+
+        public int Realizarsuma(OperacionVO operacion)
+        {
+            
+            return operacion.OperandoUno + operacion.OperandoDos;
+        }
     }
 }

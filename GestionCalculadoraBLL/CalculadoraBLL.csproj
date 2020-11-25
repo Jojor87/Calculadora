@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GestionCalculadoraDAL\CalculadoraDAL.csproj" />
     <ProjectReference Include="..\UtilidadesCalculadora\UtilidadesCalculadora.csproj" />
   </ItemGroup>
 

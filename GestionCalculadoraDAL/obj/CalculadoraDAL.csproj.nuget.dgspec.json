@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraDAL\\CalculadoraDAL.csproj": {}
+    "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\GestionCalculadoraDAL\\CalculadoraDAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraDAL\\CalculadoraDAL.csproj": {
+    "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\GestionCalculadoraDAL\\CalculadoraDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraDAL\\CalculadoraDAL.csproj",
+        "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\GestionCalculadoraDAL\\CalculadoraDAL.csproj",
         "projectName": "CalculadoraDAL",
-        "projectPath": "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraDAL\\CalculadoraDAL.csproj",
+        "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\GestionCalculadoraDAL\\CalculadoraDAL.csproj",
         "packagesPath": "C:\\Users\\JOJOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraDAL\\obj\\",
+        "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\GestionCalculadoraDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOJOR\\AppData\\Roaming\\NuGet\\NuGet.Config",

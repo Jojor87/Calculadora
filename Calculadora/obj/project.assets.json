@@ -6,7 +6,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "CalculadoraDAL": "1.0.0",
           "UtilidadesCalculadora": "1.0.0"
         },
         "compile": {
@@ -14,16 +13,6 @@
         },
         "runtime": {
           "bin/placeholder/CalculadoraBLL.dll": {}
-        }
-      },
-      "CalculadoraDAL/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/CalculadoraDAL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CalculadoraDAL.dll": {}
         }
       },
       "UtilidadesCalculadora/1.0.0": {
@@ -44,11 +33,6 @@
       "path": "../GestionCalculadoraBLL/CalculadoraBLL.csproj",
       "msbuildProject": "../GestionCalculadoraBLL/CalculadoraBLL.csproj"
     },
-    "CalculadoraDAL/1.0.0": {
-      "type": "project",
-      "path": "../GestionCalculadoraDAL/CalculadoraDAL.csproj",
-      "msbuildProject": "../GestionCalculadoraDAL/CalculadoraDAL.csproj"
-    },
     "UtilidadesCalculadora/1.0.0": {
       "type": "project",
       "path": "../UtilidadesCalculadora/UtilidadesCalculadora.csproj",
@@ -66,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JOJOR\\DI\\Calculadora\\Calculadora\\CalculadoraUI.csproj",
+      "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\Calculadora\\CalculadoraUI.csproj",
       "projectName": "CalculadoraUI",
-      "projectPath": "C:\\Users\\JOJOR\\DI\\Calculadora\\Calculadora\\CalculadoraUI.csproj",
+      "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\Calculadora\\CalculadoraUI.csproj",
       "packagesPath": "C:\\Users\\JOJOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JOJOR\\DI\\Calculadora\\Calculadora\\obj\\",
+      "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JOJOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,8 +71,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraBLL\\CalculadoraBLL.csproj": {
-              "projectPath": "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraBLL\\CalculadoraBLL.csproj"
+            "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\GestionCalculadoraBLL\\CalculadoraBLL.csproj": {
+              "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\GestionCalculadoraBLL\\CalculadoraBLL.csproj"
             }
           }
         }

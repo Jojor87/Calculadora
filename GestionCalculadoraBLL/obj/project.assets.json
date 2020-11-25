@@ -26,16 +26,6 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "CalculadoraDAL/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/CalculadoraDAL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CalculadoraDAL.dll": {}
-        }
-      },
       "UtilidadesCalculadora/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -193,11 +183,6 @@
         "netstandard.library.nuspec"
       ]
     },
-    "CalculadoraDAL/1.0.0": {
-      "type": "project",
-      "path": "../GestionCalculadoraDAL/CalculadoraDAL.csproj",
-      "msbuildProject": "../GestionCalculadoraDAL/CalculadoraDAL.csproj"
-    },
     "UtilidadesCalculadora/1.0.0": {
       "type": "project",
       "path": "../UtilidadesCalculadora/UtilidadesCalculadora.csproj",
@@ -206,7 +191,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "CalculadoraDAL >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
       "UtilidadesCalculadora >= 1.0.0"
     ]
@@ -217,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraBLL\\CalculadoraBLL.csproj",
+      "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\GestionCalculadoraBLL\\CalculadoraBLL.csproj",
       "projectName": "CalculadoraBLL",
-      "projectPath": "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraBLL\\CalculadoraBLL.csproj",
+      "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\GestionCalculadoraBLL\\CalculadoraBLL.csproj",
       "packagesPath": "C:\\Users\\JOJOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraBLL\\obj\\",
+      "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\GestionCalculadoraBLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JOJOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,11 +222,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraDAL\\CalculadoraDAL.csproj": {
-              "projectPath": "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraDAL\\CalculadoraDAL.csproj"
-            },
-            "C:\\Users\\JOJOR\\DI\\Calculadora\\UtilidadesCalculadora\\UtilidadesCalculadora.csproj": {
-              "projectPath": "C:\\Users\\JOJOR\\DI\\Calculadora\\UtilidadesCalculadora\\UtilidadesCalculadora.csproj"
+            "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\UtilidadesCalculadora\\UtilidadesCalculadora.csproj": {
+              "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\UtilidadesCalculadora\\UtilidadesCalculadora.csproj"
             }
           }
         }

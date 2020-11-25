@@ -3,21 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraUI", "Calculadora\CalculadoraUI.csproj", "{44E5931F-BE44-4AE9-A7B1-3D875AD3B43D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraUI", "Calculadora\CalculadoraUI.csproj", "{44E5931F-BE44-4AE9-A7B1-3D875AD3B43D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{DD98CB0C-CAD1-4C4D-91CA-0572727A2A8B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{075C3CA5-6F81-4DDF-B1BC-0EE291AFF454}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{89DD82C4-BF2D-461B-B520-13924B812F42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraBLL", "GestionCalculadoraBLL\CalculadoraBLL.csproj", "{165E4D41-55E4-4F0E-9D16-5BCA9B2FECBF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraDAL", "GestionCalculadoraDAL\CalculadoraDAL.csproj", "{81A72F87-D0AA-404F-9234-750C3C14BAA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraBLL", "GestionCalculadoraBLL\CalculadoraBLL.csproj", "{165E4D41-55E4-4F0E-9D16-5BCA9B2FECBF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilidades", "Utilidades", "{2AB337C3-5F21-462D-AE1B-34965D2F4AAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilidadesCalculadora", "UtilidadesCalculadora\UtilidadesCalculadora.csproj", "{67078583-7A62-4C72-8C02-7725681665C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UtilidadesCalculadora", "UtilidadesCalculadora\UtilidadesCalculadora.csproj", "{67078583-7A62-4C72-8C02-7725681665C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,10 +29,6 @@ Global
 		{165E4D41-55E4-4F0E-9D16-5BCA9B2FECBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{165E4D41-55E4-4F0E-9D16-5BCA9B2FECBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{165E4D41-55E4-4F0E-9D16-5BCA9B2FECBF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{81A72F87-D0AA-404F-9234-750C3C14BAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81A72F87-D0AA-404F-9234-750C3C14BAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81A72F87-D0AA-404F-9234-750C3C14BAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81A72F87-D0AA-404F-9234-750C3C14BAA3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{67078583-7A62-4C72-8C02-7725681665C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{67078583-7A62-4C72-8C02-7725681665C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67078583-7A62-4C72-8C02-7725681665C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -48,7 +40,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{44E5931F-BE44-4AE9-A7B1-3D875AD3B43D} = {89DD82C4-BF2D-461B-B520-13924B812F42}
 		{165E4D41-55E4-4F0E-9D16-5BCA9B2FECBF} = {DD98CB0C-CAD1-4C4D-91CA-0572727A2A8B}
-		{81A72F87-D0AA-404F-9234-750C3C14BAA3} = {075C3CA5-6F81-4DDF-B1BC-0EE291AFF454}
 		{67078583-7A62-4C72-8C02-7725681665C1} = {2AB337C3-5F21-462D-AE1B-34965D2F4AAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lf4ffF8IURyLJAklpYz6bVV5NT4sVmatrTacUjW9MY9mIUPyqWm3XFsKfhjIgKnvCJ3obKb+btgCLPZj4KQYAw==",
+  "dgSpecHash": "SD+7WYicbcL6hjkyDuNkg0ckJ5/0HBOncBPUu33vLbWCe+GA1rkk6w3u6zSv+WVJLebJtdDuOLHCqR01F7it1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JOJOR\\DI\\Calculadora\\GestionCalculadoraBLL\\CalculadoraBLL.csproj",
+  "projectFilePath": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\GestionCalculadoraBLL\\CalculadoraBLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JOJOR\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\JOJOR\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

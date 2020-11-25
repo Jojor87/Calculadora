@@ -10,3 +10,15 @@ C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\Cal
 C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.csproj.CopyComplete
 C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.dll
 C:\Users\JOJOR\DI\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.pdb
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\bin\Debug\netstandard2.0\CalculadoraBLL.deps.json
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\bin\Debug\netstandard2.0\CalculadoraBLL.dll
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\bin\Debug\netstandard2.0\CalculadoraBLL.pdb
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\bin\Debug\netstandard2.0\UtilidadesCalculadora.dll
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\bin\Debug\netstandard2.0\UtilidadesCalculadora.pdb
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.csprojAssemblyReference.cache
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.AssemblyInfoInputs.cache
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.AssemblyInfo.cs
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.csproj.CoreCompileInputs.cache
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.csproj.CopyComplete
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.dll
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\GestionCalculadoraBLL\obj\Debug\netstandard2.0\CalculadoraBLL.pdb

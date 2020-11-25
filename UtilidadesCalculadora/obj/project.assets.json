@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JOJOR\\DI\\Calculadora\\UtilidadesCalculadora\\UtilidadesCalculadora.csproj",
+      "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\UtilidadesCalculadora\\UtilidadesCalculadora.csproj",
       "projectName": "UtilidadesCalculadora",
-      "projectPath": "C:\\Users\\JOJOR\\DI\\Calculadora\\UtilidadesCalculadora\\UtilidadesCalculadora.csproj",
+      "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\UtilidadesCalculadora\\UtilidadesCalculadora.csproj",
       "packagesPath": "C:\\Users\\JOJOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JOJOR\\DI\\Calculadora\\UtilidadesCalculadora\\obj\\",
+      "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\Calculadora\\Calculadora\\UtilidadesCalculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JOJOR\\AppData\\Roaming\\NuGet\\NuGet.Config",

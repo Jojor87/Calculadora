@@ -1,0 +1,9 @@
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\UtilidadesCalculadora\bin\Debug\netstandard2.0\UtilidadesCalculadora.deps.json
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\UtilidadesCalculadora\bin\Debug\netstandard2.0\UtilidadesCalculadora.dll
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\UtilidadesCalculadora\bin\Debug\netstandard2.0\UtilidadesCalculadora.pdb
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\UtilidadesCalculadora\obj\Debug\netstandard2.0\UtilidadesCalculadora.csprojAssemblyReference.cache
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\UtilidadesCalculadora\obj\Debug\netstandard2.0\UtilidadesCalculadora.AssemblyInfoInputs.cache
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\UtilidadesCalculadora\obj\Debug\netstandard2.0\UtilidadesCalculadora.AssemblyInfo.cs
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\UtilidadesCalculadora\obj\Debug\netstandard2.0\UtilidadesCalculadora.csproj.CoreCompileInputs.cache
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\UtilidadesCalculadora\obj\Debug\netstandard2.0\UtilidadesCalculadora.dll
+D:\GIT\DAM\ProyectosDI\Calculadora\Calculadora\UtilidadesCalculadora\obj\Debug\netstandard2.0\UtilidadesCalculadora.pdb
