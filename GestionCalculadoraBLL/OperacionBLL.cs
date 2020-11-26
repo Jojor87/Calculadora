@@ -11,29 +11,34 @@ namespace CalculadoraBLL
         public OperacionBLL() {
         }
         // método realizar operacion(OperacionVO operacion);
-        public int RealizarOperacion(OperacionVO operacion) {
-            int resultado = 0;
+        public double RealizarOperacion(OperacionVO operacion) {
+            // atributos
+            double resultado;
             Sumar suma = new Sumar();
+            Restar resta = new Restar();
+            Multiplicar multiplicacion = new Multiplicar();
+            Dividir division = new Dividir();
+            RaizCuadrada raizC = new RaizCuadrada();
+            Potencia potencia = new Potencia();
 
             if (operacion.Operador.Equals("+"))
-                // Console.WriteLine("sumar")
-                
-                resultado = suma.Realizarsuma(operacion);
+                // Console.WriteLine("sumar")  
+                resultado = suma.RealizarSuma(operacion);
             else if (operacion.Operador.Equals("-"))
                 // Console.WriteLine("restar")
-                resultado = 2;
+                resultado = resta.RealizarResta(operacion);
             else if (operacion.Operador.Equals("*"))
                 // Console.WriteLine("multiplicar")
-                resultado = 3;
+                resultado = multiplicacion.RealizarMultiplicacion(operacion);
             else if (operacion.Operador.Equals("/"))
-                // Console.WriteLine("multiplicar")
-                resultado = 4;
+                // Console.WriteLine("dividir")
+                resultado = division.RealizarDivision(operacion);
             else if (operacion.Operador.Equals("V"))
-                // Console.WriteLine("multiplicar")
-                resultado = 5;
+                // Console.WriteLine("raiz cuadrada")
+                resultado = raizC.RealizarRaizC(operacion);
             else if (operacion.Operador.Equals("P"))
-                // Console.WriteLine("multiplicar")
-                resultado = 6;
+                // Console.WriteLine("potencia")
+                resultado = potencia.RealizarPotencia(operacion);
             else 
                 resultado = 7;
 

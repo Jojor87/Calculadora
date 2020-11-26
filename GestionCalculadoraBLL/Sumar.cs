@@ -12,7 +12,7 @@ namespace CalculadoraBLL
         {
         }
 
-        public int Realizarsuma(OperacionVO operacion)
+        public double RealizarSuma(OperacionVO operacion)
         {
             
             return operacion.OperandoUno + operacion.OperandoDos;

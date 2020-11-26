@@ -7,20 +7,20 @@ namespace UtilidadesCalculadora
     public class OperacionVO
     {
         // atributos
-        private int operandoUno;
-        private int operandoDos;
+        private double operandoUno;
+        private double operandoDos;
         private string operador;
     
     // constructor
-    public OperacionVO(int num1, int num2, string operador) {
+    public OperacionVO(double num1, double num2, string operador) {
             this.operandoUno = num1;
             this.operandoDos = num2;
             this.operador = operador;
         }
 
         // geters y seters
-        public int OperandoUno { get => operandoUno; set => operandoUno = value; }
-        public int OperandoDos { get => operandoDos; set => operandoDos = value; }
+        public double OperandoUno { get => operandoUno; set => operandoUno = value; }
+        public double OperandoDos { get => operandoDos; set => operandoDos = value; }
         public string Operador { get => operador; set => operador = value; }
 
         
